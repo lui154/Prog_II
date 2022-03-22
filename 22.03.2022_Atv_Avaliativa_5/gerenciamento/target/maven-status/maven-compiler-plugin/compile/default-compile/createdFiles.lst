@@ -1,0 +1,14 @@
+modelo\Pessoa.class
+com\App.class
+util\JpaUtil.class
+modelo\Operador.class
+util\Dao.class
+module-info.class
+com\MenuController.class
+modelo\Buscador.class
+com\OperadorController.class
+modelo\Veiculo.class
+modelo\Endereco.class
+com\VeiculoController.class
+com\MotoristaController.class
+modelo\Motorista.class
